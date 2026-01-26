@@ -13,8 +13,8 @@ title                    : "Kosal Chansothay"
 title_separator          : "-"
 name                     : &name "Kosal Chansothay"
 description              : &description "Data Science Student at Institute of Technology of Cambodia | Machine Learning Enthusiast"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "" # Leave empty for local dev; set to https://kosalchansothay.github.io for production
-baseurl                  : "" # Leave empty for local dev; set to "/me" for production if using subdirectory
+url                      : "https://kosalchansothay.github.io" # The base hostname & protocol for your site
+baseurl                  : "/me" # the subpath of your site
 repository               : "KosalChansothay/me"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
