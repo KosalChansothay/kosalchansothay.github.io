@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Kosal Chansothay"
 description              : &description "Data Science Student at Institute of Technology of Cambodia | Machine Learning Enthusiast"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://kosalchansothay.github.io" # The base hostname & protocol for your site
-baseurl                  : "/me" # the subpath of your site
-repository               : "KosalChansothay/me"
+baseurl                  : "" # Root of the site (no subdirectory)
+repository               : "KosalChansothay/kosalchansothay.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "5th Year Data Science Student at ITC | Machine Learning & Deep Learning Enthusiast"
   location         : "Phnom Penh, Cambodia"
   employer         : "Institute of Technology of Cambodia"
-  uri              : "https://kosalchansothay.github.io/me/"
+  uri              : "https://kosalchansothay.github.io/"
   email            : "kosalchansothay@gmail.com" 
 
   # Academic websites
