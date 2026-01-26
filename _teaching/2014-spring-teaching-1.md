@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 1"
+title: "Google Data Analytics Professional Certificate"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Professional Certificate"
+permalink: /teaching/google-data-analytics
+venue: "Google via Coursera"
+date: 2023-01-01
+location: "Online"
+certificate_url: "https://coursera.org/share/6d8384088f44319829cad7c50e77302b"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[View Certificate](https://coursera.org/share/6d8384088f44319829cad7c50e77302b)
 
-Heading 1
-======
+Completed the Google Data Analytics Professional Certificate, covering:
 
-Heading 2
+Key Skills Learned
 ======
+- Data cleaning and organization
+- SQL for data analysis
+- R programming for statistical analysis
+- Data visualization with Tableau
+- Spreadsheet analysis with Google Sheets and Excel
 
-Heading 3
+Certificate Highlights
 ======
+- Hands-on projects with real-world datasets
+- End-to-end data analysis case studies
+- Best practices for data-driven decision making

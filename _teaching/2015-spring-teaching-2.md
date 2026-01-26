@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "Google Advanced Data Analytics Professional Certificate"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Professional Certificate"
+permalink: /teaching/google-advanced-data-analytics
+venue: "Google via Coursera"
+date: 2023-06-01
+location: "Online"
+certificate_url: "https://coursera.org/share/678e5558b72bb73900a874181888a790"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[View Certificate](https://coursera.org/share/678e5558b72bb73900a874181888a790)
 
-Heading 1
-======
+Completed the Google Advanced Data Analytics Professional Certificate, covering advanced topics in data science and machine learning.
 
-Heading 2
+Key Skills Learned
 ======
+- Advanced statistical analysis
+- Machine learning with Python
+- Predictive modeling techniques
+- A/B testing and experimentation
+- Regression analysis
 
-Heading 3
+Certificate Highlights
 ======
+- Python programming for data science
+- Building and evaluating ML models
+- Feature engineering and model optimization
