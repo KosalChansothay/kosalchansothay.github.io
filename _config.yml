@@ -22,7 +22,7 @@ repository               : "KosalChansothay/kosalchansothay.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_.jpg"
+  avatar           : "KosalChansothay.jpg"
   name             : "Kosal Chansothay"
   pronouns         : "he/him"  
   bio              : "5th Year Data Science Student at ITC | Machine Learning & Deep Learning Enthusiast"
