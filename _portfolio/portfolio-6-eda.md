@@ -18,9 +18,9 @@ Comprehensive exploratory data analysis on the red wine quality dataset, investi
 
 ### Technologies Used
 
-- R Programming
+- Python
 - Statistical Analysis Libraries
-- Data Visualization (ggplot2)
+- Data Visualization (Plotly)
 
 ### Resources
 
