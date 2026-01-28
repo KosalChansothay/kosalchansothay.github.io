@@ -30,9 +30,6 @@ Education
 - Information Web Retrieval
 - Time Series Analysis,
 - Probabilistic Graphical Models
-- Large-Scale Distributed Systems (Big Data)
-- Data Visualization
-- Database Design and Administration
 - Economics for Engineers
 
 Certifications
