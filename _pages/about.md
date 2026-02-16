@@ -27,10 +27,7 @@ Education
 - Exploratory Data Analysis and Unsupervised Learning
 - Natural Language Processing
 - Project Management, 
-- Information Web Retrieval
 - Time Series Analysis,
-- Probabilistic Graphical Models
-- Economics for Engineers
 
 Certifications
 ======
