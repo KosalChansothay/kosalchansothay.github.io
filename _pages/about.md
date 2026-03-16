@@ -13,10 +13,7 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Data Analyt
 
 Research Interests
 ======
-- **Natural Language Processing (NLP)**: Khmer language processing, sentiment analysis, and transformer architectures
-- **Machine Learning**: Classification, regression, and predictive modeling
-- **Deep Learning**: Large Language Models (LLMs), attention mechanisms, and model fine-tuning
-- **Computer Vision**: Object detection and localization using YOLO architectures
+- **Large, Vision Language Model** | **Machine Learning** | **Deep Learning** | **Computer Vision**
 
 Education
 ======
@@ -24,22 +21,27 @@ Education
 *Data Science, 5th Year Student* (October 2022 – Present)
 
 **Relevant Coursework:**
-- Exploratory Data Analysis and Unsupervised Learning
-- Natural Language Processing
-- Project Management, 
-- Time Series Analysis,
+- **Exploratory Data Analysis and Unsupervised Learning** | **Natural Language Processing** | **Advanced Data Science** | **Time Series Analysis** | **Business Intelligence**
 
 Certifications
 ======
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N9HTBKVN5NTA)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/6d8384088f44319829cad7c50e77302b)
 - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/678e5558b72bb73900a874181888a790)
 - [Meta Data Analyst Professional Certificate](https://coursera.org/share/2c8d05191cad229d711836165a46b54f)
 - [Data Science Camp by Handong Global University](https://drive.google.com/file/d/13a6fvsZJIJerTzdufcfBIBmojouPrD67/view?usp=drivesdk)
 - [Industry Professional Credentials Track (STIC)](https://www.dropbox.com/scl/fi/c96zl2a3yd9behxwl97iw/26168.Kosal-Chansothay_2024.10.24.stic-certificate-of-completion.pdf?rlkey=r3b5xwvff5nddix21pty7up7j&e=1&dl=0)
-- [Supervised Machine Learning: Regression and Classification (Stanford Online)](https://coursera.org/share/336b60ef753bc165b626ca41b79b17d9)
 
 Recent Experience
 ======
+**Data Science and AI Intern** | General Department of Customs and Excise of Cambodia, GCDE | February 2026 - Present
+**អគ្គនាយកដ្ឋានគយនិងរដ្ឋាករកម្ពុជា | នាយកដ្ឋានបច្ចេកវិទ្យាព័ត៌មាន**
+- Developed Optical Character Recognition (OCR) solutions for trade documents using both OCR-only models and Vision-Language Model–based approaches.
+- Conducted hands-on evaluation of multiple OCR frameworks, including GLM-OCR (Z.ai), Qwen-3-4B (Alibaba), Docling (IBM), PaddleOCR (PaddleTeam), and Marker (Datalab).
+- Assessed model performance across diverse document types such as invoices with nested tables, complex bills of lading, and challenging scanned airway bills.
+- Implemented and tested self-hosted deployments using Ollama and vLLM, with and without Docker containers.
+- Completed orientation on customs declaration processes and data quality standards to align AI solutions with domain-specific requirements.
+
 **Research Intern** | Institute of Digital Research and Innovation (IDRI), CADT | 2025
 - Fine-tuned Qwen3 4B-parameter LLM using LoRA and 4-bit quantization techniques
 - Worked with tax-related Q&A dataset (1,690 pairs) extracted from GDT website PDFs
@@ -55,7 +57,7 @@ Technical Skills
 
 **Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI, Excel
 
-**Machine Learning:** Scikit-learn, PyTorch
+**Machine Learning:** Scikit-learn, PyTorch, TensorFlow
 
 Languages
 ======
