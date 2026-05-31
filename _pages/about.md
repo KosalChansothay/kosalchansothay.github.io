@@ -13,7 +13,7 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Data Analyt
 
 Research Interests
 ======
-- **Large, Vision Language Model** | **Machine Learning** | **Deep Learning** | **Computer Vision**
+- **Large, Vision Language Model** | **Machine Learning** | **Deep Learning** | **Computer Vision** | **RAG**
 
 Education
 ======
