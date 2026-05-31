@@ -34,22 +34,20 @@ Certifications
 
 Recent Experience
 ======
-**Data Science and AI Intern** | General Department of Customs and Excise of Cambodia, GCDE | February 2026 - Present
-**អគ្គនាយកដ្ឋានគយនិងរដ្ឋាករកម្ពុជា | នាយកដ្ឋានបច្ចេកវិទ្យាព័ត៌មាន**
-- Developed Optical Character Recognition (OCR) solutions for trade documents using both OCR-only models and Vision-Language Model–based approaches.
-- Conducted hands-on evaluation of multiple OCR frameworks, including GLM-OCR (Z.ai), Qwen-3-4B (Alibaba), Docling (IBM), PaddleOCR (PaddleTeam), and Marker (Datalab).
-- Assessed model performance across diverse document types such as invoices with nested tables, complex bills of lading, and challenging scanned airway bills.
-- Implemented and tested self-hosted deployments using Ollama and vLLM, with and without Docker containers.
-- Completed orientation on customs declaration processes and data quality standards to align AI solutions with domain-specific requirements.
+**AI and Data Science Intern** | General Department of Customs and Excise of Cambodia (GCDE) | Phnom Penh, Cambodia | Feb 2026 - May 2026
+- Developed robust OCR solutions for complex trade documents using Vision-Language Models (VLMs) optimized for local deployment via vLLM on 16GB VRAM hardware.
+- Upgraded OCR system capabilities by integrating dot.mocr, improving accuracy alongside commercial solutions.
+- Evaluated and benchmarked OCR frameworks including GLM-OCR (Z.ai), Qwen-3-4B, IBM Docling, PaddleOCR, MinerU/MinerU2.5 Pro, Marker, and dot.mocr to balance speed and accuracy.
+- Validated performance on edge-case logistics documents, parsing nested invoice tables, multi-page packing lists, and low-resolution airway bills.
 
-**Research Intern** | Institute of Digital Research and Innovation (IDRI), CADT | 2025
-- Fine-tuned Qwen3 4B-parameter LLM using LoRA and 4-bit quantization techniques
-- Worked with tax-related Q&A dataset (1,690 pairs) extracted from GDT website PDFs
-- Successfully deployed model with minimal resources (Tesla T4 on Google Colab)
+**Research Intern** | Institute of Digital Research and Innovation (IDRI), CADT | Phnom Penh, Cambodia | Jul 2025 - Sep 2025
+- Fine-tuned a Qwen3 4B-parameter LLM using QLoRA (4-bit quantization) to improve training efficiency.
+- Curated and processed a dataset of 1,690 tax-related QA pairs from GDT PDF documents.
+- Presented technical findings during the final evaluation.
 
-**Data Annotation Intern** | Ministry of Post and Telecommunications, CADT | Aug–Sep 2024
-- Processed video data using ffmpeg framework in Python for Khmer ASR project
-- Performed text segmentation for Khmer Automatic Speech Recognition model training
+**Data Annotation Intern** | Ministry of Post and Telecommunications (MPTC) / CADT | Phnom Penh, Cambodia | Aug 2024 - Sep 2024
+- Automated FFmpeg-based Python scripts to batch-process and organize raw video files.
+- Segmented and aligned audio-text pairs into word-level structures for Khmer ASR training.
 
 Technical Skills
 ======

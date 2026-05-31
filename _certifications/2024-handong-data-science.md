@@ -1,8 +1,8 @@
 ---
 title: "Data Science Camp - Handong Global University"
-collection: teaching
+collection: certifications
 type: "Training Program"
-permalink: /teaching/handong-data-science-camp
+permalink: /certifications/handong-data-science-camp
 venue: "Handong Global University"
 date: 2024-03-01
 location: "South Korea (Online)"

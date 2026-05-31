@@ -1,8 +1,8 @@
 ---
 title: "Meta Data Analyst Professional Certificate"
-collection: teaching
+collection: certifications
 type: "Professional Certificate"
-permalink: /teaching/meta-data-analyst
+permalink: /certifications/meta-data-analyst
 venue: "Meta via Coursera"
 date: 2023-08-01
 location: "Online"

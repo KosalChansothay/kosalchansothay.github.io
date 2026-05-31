@@ -1,8 +1,8 @@
 ---
-title: "Google Data Analytics Professional Certificate"
-collection: teaching
+title: "Google Data Analyst Professional Certificate"
+collection: certifications
 type: "Professional Certificate"
-permalink: /teaching/google-data-analytics
+permalink: /certifications/google-data-analyst
 venue: "Google via Coursera"
 date: 2023-01-01
 location: "Online"
@@ -11,7 +11,7 @@ certificate_url: "https://coursera.org/share/6d8384088f44319829cad7c50e77302b"
 
 [View Certificate](https://coursera.org/share/6d8384088f44319829cad7c50e77302b)
 
-Completed the Google Data Analytics Professional Certificate, covering:
+Completed the Google Data Analyst Professional Certificate, gaining expertise in data analysis fundamentals and tools.
 
 Key Skills Learned
 ======

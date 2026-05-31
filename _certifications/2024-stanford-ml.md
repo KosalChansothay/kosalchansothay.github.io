@@ -1,8 +1,8 @@
 ---
 title: "Supervised Machine Learning: Regression and Classification"
-collection: teaching
+collection: certifications
 type: "Professional Certificate"
-permalink: /teaching/stanford-ml
+permalink: /certifications/stanford-ml
 venue: "Stanford Online via Coursera"
 date: 2024-01-01
 location: "Online"

@@ -1,8 +1,8 @@
 ---
 title: "Industry Professional Credentials Track (STIC)"
-collection: teaching
+collection: certifications
 type: "Professional Certificate"
-permalink: /teaching/stic-certificate
+permalink: /certifications/stic-certificate
 venue: "STIC"
 date: 2024-10-24
 location: "Online"
