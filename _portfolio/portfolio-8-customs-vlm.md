@@ -7,7 +7,7 @@ date: 2026-07-08
 
 ## Project Overview
 
-During my internship at the General Department of Customs and Excise of Cambodia (GCDE), I worked on improving trade document processing through VLM-based OCR solutions for complex customs paperwork.
+During my internship at the General Department of Customs and Excise of Cambodia (GDCE), I worked on improving trade document processing through VLM-based OCR solutions for complex customs paperwork.
 
 ### Key Contributions
 
