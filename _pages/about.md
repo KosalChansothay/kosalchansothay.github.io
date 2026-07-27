@@ -26,7 +26,7 @@ Education
 Certifications
 ======
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N9HTBKVN5NTA)
-- [Google AI](https://www.coursera.org/account/accomplishments/specialization/HHOEA4NAN36C)
+- [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HHOEA4NAN36C)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/6d8384088f44319829cad7c50e77302b)
 - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/678e5558b72bb73900a874181888a790)
 - [Meta Data Analyst Professional Certificate](https://coursera.org/share/2c8d05191cad229d711836165a46b54f)
