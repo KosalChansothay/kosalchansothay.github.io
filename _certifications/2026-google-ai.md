@@ -1,5 +1,5 @@
 ---
-title: "Google AI"
+title: "Google AI Professional Certificate"
 collection: certifications
 type: "Professional Certificate"
 permalink: /certifications/google-ai

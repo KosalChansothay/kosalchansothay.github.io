@@ -17,6 +17,7 @@ Education
 
 Certifications
 ======
+* Google Artificial Intellience Professional Certificate
 * Google Data Analytics Professional Certificate
 * Google Advanced Data Analytics Professional Certificate
 * Meta Data Analyst Professional Certificate
@@ -27,7 +28,8 @@ Certifications
 Work Experience
 ======
 * **AI and Data Science Intern** — General Department of Customs and Excise of Cambodia (GCDE), Phnom Penh, Cambodia
-  * Feb 2026 - May 2026
+  * Feb 2026 - Present 2026
+  * Applied Chain-Of-Thought Few-Shot Prompting for complex classification system.
   * Developed robust OCR solutions for complex trade documents using Vision-Language Models (VLMs) optimized for local deployment via vLLM on 16GB VRAM hardware.
   * Upgraded OCR system capabilities by integrating dot.mocr, improving accuracy alongside commercial solutions.
   * Evaluated and benchmarked OCR frameworks including GLM-OCR (Z.ai), Qwen-3-4B, IBM Docling, PaddleOCR, MinerU/MinerU2.5 Pro, Marker, and dot.mocr to balance speed and accuracy.

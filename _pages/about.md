@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm **Kosal Chansothay**, a 5th-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
+Welcome! I'm **Kosal Chansothay**, a fresh graduate Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
 
 I am passionate about **Machine Learning**, **Deep Learning**, and **Data Analytics**, with hands-on experience in building and fine-tuning language models, developing predictive models, and creating data-driven solutions.
 
@@ -35,11 +35,12 @@ Certifications
 
 Recent Experience
 ======
-**AI and Data Science Intern** | General Department of Customs and Excise of Cambodia (GCDE) | Phnom Penh, Cambodia | Feb 2026 - May 2026
+**AI and Data Science Intern** | General Department of Customs and Excise of Cambodia (GCDE) | Phnom Penh, Cambodia | Feb 2026 - August 2026
 - Developed robust OCR solutions for complex trade documents using Vision-Language Models (VLMs) optimized for local deployment via vLLM on 16GB VRAM hardware.
 - Upgraded OCR system capabilities by integrating dot.mocr, improving accuracy alongside commercial solutions.
 - Evaluated and benchmarked OCR frameworks including GLM-OCR (Z.ai), Qwen-3-4B, IBM Docling, PaddleOCR, MinerU/MinerU2.5 Pro, Marker, and dot.mocr to balance speed and accuracy.
 - Validated performance on edge-case logistics documents, parsing nested invoice tables, multi-page packing lists, and low-resolution airway bills.
+- Apply Chain of Thought Few-Shot prompting to the intricate classification work. 
 
 **Research Intern** | Institute of Digital Research and Innovation (IDRI), CADT | Phnom Penh, Cambodia | Jul 2025 - Sep 2025
 - Fine-tuned a Qwen3 4B-parameter LLM using QLoRA (4-bit quantization) to improve training efficiency.
