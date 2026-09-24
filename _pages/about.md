@@ -7,63 +7,61 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm **Kosal Chansothay**, a fresh graduate Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
+I am a Data Science graduate from the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
 
-I am passionate about **Machine Learning**, **Deep Learning**, and **Data Analytics**, with hands-on experience in building and fine-tuning language models, developing predictive models, and creating data-driven solutions.
+My work centers on applied machine learning, computer vision, and NLP, with a focus on deploying models under practical hardware constraints.
 
-Research Interests
+Experience
 ======
-- **Large, Vision Language Model** | **Machine Learning** | **Deep Learning** | **Computer Vision** | **RAG**
+
+**AI and Data Science Intern** | General Department of Customs and Excise (GDCE)  
+*Feb 2026 - Aug 2026*
+- Benchmarked open-source OCR and Vision-Language Models (Docling, MinerU, GLM-OCR, PaddleOCR) on complex trade documents.
+- Deployed local inference pipelines using vLLM optimized for 16GB VRAM hardware.
+- Resolved parsing edge cases for nested invoice tables and low-resolution airway bills.
+- Applied few-shot prompting for customs document classification.
+
+**Research Intern** | Institute of Digital Research and Innovation (IDRI), CADT  
+*Jul 2025 - Sep 2025*
+- Curated and validated 1,690 tax Q&A pairs from official GDT documents.
+- Fine-tuned a Qwen 4B model using QLoRA (4-bit quantization) for efficient local execution.
+
+**Data Annotation Intern** | Ministry of Post and Telecommunications (MPTC) / CADT  
+*Aug 2024 - Sep 2024*
+- Developed Python FFmpeg automation scripts for batch video and audio preprocessing.
+- Segmented and aligned speech data for Khmer ASR model training.
+
+Featured Projects
+======
+
+- [**Trade Document OCR with VLMs**](/portfolio/portfolio-8-customs-vlm/): Localized VLM pipeline on 16GB VRAM for logistics documents.
+- [**Cambodia Rainfall Forecasting**](/portfolio/portfoilo-7-tsa/): SARIMA modeling and statistical validation on 45 years of climate data.
+- [**Tax Domain LLM Fine-Tuning**](/portfolio/portfolio-5/): Parameter-efficient fine-tuning (QLoRA) on domain-specific Q&A pairs.
 
 Education
 ======
-**Institute of Technology of Cambodia**  
-*Data Science, 5th Year Student* (October 2022 – Present)
 
-**Relevant Coursework:**
-- **Exploratory Data Analysis and Unsupervised Learning** | **Natural Language Processing** | **Advanced Data Science** | **Time Series Analysis** | **Business Intelligence**
-
-Certifications
-======
-- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N9HTBKVN5NTA)
-- [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HHOEA4NAN36C)
-- [Google Data Analytics Professional Certificate](https://coursera.org/share/6d8384088f44319829cad7c50e77302b)
-- [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/678e5558b72bb73900a874181888a790)
-- [Meta Data Analyst Professional Certificate](https://coursera.org/share/2c8d05191cad229d711836165a46b54f)
-- [Data Science Camp by Handong Global University](https://drive.google.com/file/d/13a6fvsZJIJerTzdufcfBIBmojouPrD67/view?usp=drivesdk)
-- [Industry Professional Credentials Track (STIC)](https://www.dropbox.com/scl/fi/c96zl2a3yd9behxwl97iw/26168.Kosal-Chansothay_2024.10.24.stic-certificate-of-completion.pdf?rlkey=r3b5xwvff5nddix21pty7up7j&e=1&dl=0)
-
-Recent Experience
-======
-**AI and Data Science Intern** | General Department of Customs and Excise of Cambodia (GCDE) | Phnom Penh, Cambodia | Feb 2026 - August 2026
-- Developed robust OCR solutions for complex trade documents using Vision-Language Models (VLMs) optimized for local deployment via vLLM on 16GB VRAM hardware.
-- Upgraded OCR system capabilities by integrating dot.mocr, improving accuracy alongside commercial solutions.
-- Evaluated and benchmarked OCR frameworks including GLM-OCR (Z.ai), Qwen-3-4B, IBM Docling, PaddleOCR, MinerU/MinerU2.5 Pro, Marker, and dot.mocr to balance speed and accuracy.
-- Validated performance on edge-case logistics documents, parsing nested invoice tables, multi-page packing lists, and low-resolution airway bills.
-- Apply Chain of Thought Few-Shot prompting to the intricate classification work. 
-
-**Research Intern** | Institute of Digital Research and Innovation (IDRI), CADT | Phnom Penh, Cambodia | Jul 2025 - Sep 2025
-- Fine-tuned a Qwen3 4B-parameter LLM using QLoRA (4-bit quantization) to improve training efficiency.
-- Curated and processed a dataset of 1,690 tax-related QA pairs from GDT PDF documents.
-- Presented technical findings during the final evaluation.
-
-**Data Annotation Intern** | Ministry of Post and Telecommunications (MPTC) / CADT | Phnom Penh, Cambodia | Aug 2024 - Sep 2024
-- Automated FFmpeg-based Python scripts to batch-process and organize raw video files.
-- Segmented and aligned audio-text pairs into word-level structures for Khmer ASR training.
+**Institute of Technology of Cambodia (ITC)**  
+*B.Eng. in Data Science, Department of Applied Mathematics and Statistics* (2022 - 2026)  
+**Key Coursework:** Machine Learning, Natural Language Processing, Time Series Analysis, Computer Vision.
 
 Technical Skills
 ======
-**Programming Languages:** Python, R, SQL
 
-**Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI, Excel
+- **Languages:** Python, R, SQL
+- **Frameworks & Tools:** PyTorch, vLLM, Hugging Face, Scikit-learn
+- **Data & Analytics:** Pandas, NumPy, Plotly, Power BI
 
-**Machine Learning:** Scikit-learn, PyTorch, TensorFlow
-
-Languages
+Certifications
 ======
-- **Khmer:** Native speaker
-- **English:** Intermediate
 
-Get in Touch
+- [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HHOEA4NAN36C)
+- [Google Advanced Data Analytics](https://coursera.org/share/678e5558b72bb73900a874181888a790)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N9HTBKVN5NTA)
+- [Meta Data Analyst Professional Certificate](https://coursera.org/share/2c8d05191cad229d711836165a46b54f)
+- [Handong Global University Data Science Camp](https://drive.google.com/file/d/13a6fvsZJIJerTzdufcfBIBmojouPrD67/view?usp=drivesdk)
+
+Contact
 ======
-I'm always open to discussing research collaborations, data science projects, or opportunities in the field. Feel free to reach out via [email](mailto:kosalchansothay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kosal-chansothay-985b52297).
+
+Open to data science and machine learning opportunities. Feel free to connect via [Email](mailto:kosalchansothay@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kosal-chansothay-985b52297).
