@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Science graduate from the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
+Welcome! I'm **Kosal Chansothay**, a Data Science graduate from the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
 
-My work centers on applied machine learning, computer vision, and NLP, with a focus on deploying models under practical hardware constraints.
+I focus on **Machine Learning**, **Deep Learning**, and **Computer Vision**, with hands-on experience in building and fine-tuning language models, developing predictive pipelines, and practical model deployment under real-world resource constraints.
+
+Research Interests
+======
+- **Large, Vision Language Model** | **Machine Learning** | **Deep Learning** | **Computer Vision** | **RAG**
 
 Experience
 ======
@@ -42,26 +46,30 @@ Education
 ======
 
 **Institute of Technology of Cambodia (ITC)**  
-*B.Eng. in Data Science, Department of Applied Mathematics and Statistics* (2022 - 2026)  
-**Key Coursework:** Machine Learning, Natural Language Processing, Time Series Analysis, Computer Vision.
+*B.Eng. in Data Science, Department of Applied Mathematics and Statistics* (October 2022 - 2026)
+
+**Relevant Coursework:**
+- **Exploratory Data Analysis and Unsupervised Learning** | **Natural Language Processing** | **Advanced Data Science** | **Time Series Analysis** | **Business Intelligence**
 
 Technical Skills
 ======
 
-- **Languages:** Python, R, SQL
+- **Programming Languages:** Python, R, SQL
 - **Frameworks & Tools:** PyTorch, vLLM, Hugging Face, Scikit-learn
-- **Data & Analytics:** Pandas, NumPy, Plotly, Power BI
+- **Data & Analytics:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI, Excel
 
 Certifications
 ======
 
-- [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HHOEA4NAN36C)
-- [Google Advanced Data Analytics](https://coursera.org/share/678e5558b72bb73900a874181888a790)
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N9HTBKVN5NTA)
+- [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HHOEA4NAN36C)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/6d8384088f44319829cad7c50e77302b)
+- [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/678e5558b72bb73900a874181888a790)
 - [Meta Data Analyst Professional Certificate](https://coursera.org/share/2c8d05191cad229d711836165a46b54f)
-- [Handong Global University Data Science Camp](https://drive.google.com/file/d/13a6fvsZJIJerTzdufcfBIBmojouPrD67/view?usp=drivesdk)
+- [Data Science Camp by Handong Global University](https://drive.google.com/file/d/13a6fvsZJIJerTzdufcfBIBmojouPrD67/view?usp=drivesdk)
+- [Industry Professional Credentials Track (STIC)](https://www.dropbox.com/scl/fi/c96zl2a3yd9behxwl97iw/26168.Kosal-Chansothay_2024.10.24.stic-certificate-of-completion.pdf?rlkey=r3b5xwvff5nddix21pty7up7j&e=1&dl=0)
 
-Contact
+Get in Touch
 ======
 
-Open to data science and machine learning opportunities. Feel free to connect via [Email](mailto:kosalchansothay@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kosal-chansothay-985b52297).
+I am always open to discussing research collaborations, data science projects, or opportunities in the field. Feel free to connect via [Email](mailto:kosalchansothay@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kosal-chansothay-985b52297).
